@@ -6,3 +6,7 @@ https://github.com/AlessioSal98/VisionPerceptionProject
 
 ## Robot Programming
 https://github.com/AlessioSal98/RobotProgrammingProject
+
+
+## Neural Networks
+https://drive.google.com/drive/folders/1S4jxEuTyhqhWo_Lc36NXOrwuwNuNwJkp?usp=sharing
