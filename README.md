@@ -16,3 +16,6 @@ https://drive.google.com/drive/folders/1uDKky_oWjS8L51mcr9K5fSHeUdp0pO4n?usp=sha
 
 ## Narrative Understanding and Storytelling
 https://drive.google.com/drive/folders/1lhWhAK5zcCElDKtudMiMLIKgLqyye4tW?usp=sharing
+
+## Seminars in AI and Robotics
+https://drive.google.com/drive/folders/1-j-oHsWPnHaKaD5eA9BWKCpXf2WDSEdL?usp=sharing
