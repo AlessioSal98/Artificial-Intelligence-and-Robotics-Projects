@@ -19,3 +19,6 @@ https://drive.google.com/drive/folders/1lhWhAK5zcCElDKtudMiMLIKgLqyye4tW?usp=sha
 
 ## Seminars in AI and Robotics
 https://drive.google.com/drive/folders/1-j-oHsWPnHaKaD5eA9BWKCpXf2WDSEdL?usp=sharing
+
+## Natural Language Processing
+https://drive.google.com/drive/folders/1KlNTmH9mLWyrUL3bQOwKQk0CDE889SXT?usp=sharing
