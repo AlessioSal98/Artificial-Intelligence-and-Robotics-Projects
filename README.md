@@ -14,5 +14,5 @@ https://drive.google.com/drive/folders/1S4jxEuTyhqhWo_Lc36NXOrwuwNuNwJkp?usp=sha
 ## Deep Learning
 https://drive.google.com/drive/folders/1uDKky_oWjS8L51mcr9K5fSHeUdp0pO4n?usp=sharing
 
-## Narrative Understandin and Storytelling
+## Narrative Understanding and Storytelling
 https://drive.google.com/drive/folders/1lhWhAK5zcCElDKtudMiMLIKgLqyye4tW?usp=sharing
