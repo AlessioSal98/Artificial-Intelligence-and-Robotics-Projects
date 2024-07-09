@@ -1,5 +1,5 @@
-# Sapienza University Projects
-Contains references to all my projects developed at Sapienza University of Rome
+# Artificial Intelligence and Robotics Projects
+Contains references to all my projects developed during my Artificial Intelligence and Robotics master degree at Sapienza University of Rome
 
 ## Vision and Perception
 https://github.com/AlessioSal98/VisionPerceptionProject
